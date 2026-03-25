@@ -14,19 +14,19 @@ description: >
   Focusing on Digital Supply Chain, FMS Optimization, and New Business Development.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>. 
 keywords: Logistics, Strategy Planning, CJ Logistics, KAIST, Information Management, FMS, SDV, Data Monetization
 lang: en 
 icon: ⚛️ 
 
-# [수정] 주소 뒤의 미세한 공백을 제거하고 표준 형식으로 맞췄습니다.
+# [정밀 교정] 주소와 경로 설정을 표준 규격으로 맞췄습니다.
 url: https://sackbak1.github.io
-baseurl: "" 
+baseurl: ""
 last_updated: true 
 back_to_top: true
 
 # -----------------------------------------------------------------------------
-# Social Info (ID만 정확히 입력)
+# Social Info
 # -----------------------------------------------------------------------------
 linkedin_username: seokbin-kang-b0b89814a
 github_username: sackbak1
@@ -39,7 +39,7 @@ footer_fixed: false
 search_enabled: true
 
 # -----------------------------------------------------------------------------
-# Optional Features
+# Optional Features (석빈님이 원하신 모든 기능 복원)
 # -----------------------------------------------------------------------------
 enable_darkmode: true 
 enable_math: true 
