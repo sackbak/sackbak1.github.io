@@ -45,3 +45,6 @@ enable_darkmode: true
 enable_math: true 
 enable_progressbar: true 
 enable_masonry: true
+
+third_party_libraries:
+  enabled: true
