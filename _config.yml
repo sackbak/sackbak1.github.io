@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Seokbin Kang # website title
+title: Seokbin Kang
 first_name: Seokbin
 middle_name: 
 last_name: Kang
@@ -19,34 +19,29 @@ keywords: Logistics, Strategy Planning, CJ Logistics, KAIST, Information Managem
 lang: en 
 icon: ⚛️ 
 
-# [중요] 석빈님의 실제 주소로 변경했습니다.
-url: https://sackbak1.github.io 
-baseurl: "" # root에 배포하므로 비워둡니다.
+# [수정] 주소 뒤의 미세한 공백을 제거하고 표준 형식으로 맞췄습니다.
+url: https://sackbak1.github.io
+baseurl: "" 
 last_updated: true 
 back_to_top: true
 
 # -----------------------------------------------------------------------------
-# Social Info (이력서 기반 연결)
+# Social Info (ID만 정확히 입력)
 # -----------------------------------------------------------------------------
-# 아래 ID만 넣으면 al-folio가 자동으로 아이콘과 링크를 생성합니다.
-
 linkedin_username: seokbin-kang-b0b89814a
 github_username: sackbak1
-# 구글 스칼라나 트위터가 있다면 추가 가능합니다.
 
 # -----------------------------------------------------------------------------
 # Blog & Layout Settings
 # -----------------------------------------------------------------------------
-
 navbar_fixed: true
-footer_fixed: false # 하단이 너무 꽉 차지 않게 false 권장
+footer_fixed: false 
 search_enabled: true
 
 # -----------------------------------------------------------------------------
-# Optional Features (석빈님께 최적화)
+# Optional Features
 # -----------------------------------------------------------------------------
-
-enable_darkmode: true # 개발자/연구자 느낌의 다크모드 활성화
-enable_math: true # KAIST 연구 관련 수식 대응
-enable_progressbar: true # 읽기 경험 향상
-enable_masonry: true # 프로젝트 카드를 예쁘게 자동 배치
+enable_darkmode: true 
+enable_math: true 
+enable_progressbar: true 
+enable_masonry: true
