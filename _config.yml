@@ -45,6 +45,16 @@ enable_darkmode: true
 enable_math: true 
 enable_progressbar: true 
 enable_masonry: true
-
+# -----------------------------------------------------------------------------
+# Third Party Libraries
+# -----------------------------------------------------------------------------
 third_party_libraries:
-  enabled: true
+  mathjax:
+    url:
+      js: "https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.0/es5/tex-mml-chtml.js"
+  chartjs:
+    url:
+      js: "https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.7.0/chart.min.js"
+  mermaid:
+    url:
+      js: "https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.13.3/mermaid.min.js"
