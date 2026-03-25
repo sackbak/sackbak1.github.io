@@ -2,33 +2,56 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href="https://www.cjlogistics.com" target="_blank">CJ Logistics</a> Strategy Planning | KAIST IMMS '26
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: profile.jpg # [중요] 아까 올리신 사진 파일명과 일치시켜야 합니다.
+  image_circular: true # 교수님 스타일의 깔끔한 원형 프로필 적용
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Senior Specialist</p>
+    <p>Strategic Planning Dept.</p>
+    <p>Banpo, Seoul, South Korea</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: false # 아직 논문이 없으므로 일단 false (추후 papers.bib 수정 시 활성)
+social: true # _config.yml의 링크드인과 연동됩니다.
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  [cite_start]enabled: true # 강의 자료의 'News' 섹션 활용 [cite: 175]
+  scrollable: true
+  limit: 5
 
 latest_posts:
   enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  scrollable: true
+  limit: 3
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+## Biography
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+[cite_start]I am a **Logistics Strategy & Business Development Specialist** with 9 years of professional experience at **CJ Logistics**[cite: 221]. [cite_start]Currently, I am an **MS candidate in Information Management (IMMS) at KAIST** (expected graduation in Aug 2026)[cite: 215].
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+[cite_start]Inspired by the "regrets of retired executives" discussed in my lectures [cite: 179, 180][cite_start], I am building this site as a living **"Record of Accomplishments"** to archive my strategic journey. [cite_start]My expertise lies in bridging traditional logistics with high-tech platforms to create new business value[cite: 218].
+
+---
+
+## Core Competencies
+
+* [cite_start]**New Business Development**: End-to-End business development from seeding to launching via cross-industry integration[cite: 224, 225].
+* [cite_start]**Data Monetization & Ad-tech**: Scaling high-margin advertising models through logistics infrastructure and data assets[cite: 219].
+* [cite_start]**Strategic Partnership**: Structuring complex deals with partners like Kia (Mobility) and Karrot (Platform)[cite: 231].
+
+---
+
+## Key Projects
+
+* [cite_start]**Hyper-local Logistics (with Karrot)**: Leading the 'Direct Purchase' service launch and designing distance-based delivery models[cite: 238].
+* [cite_start]**Digital Signage via Cargo Vehicles (with Kia)**: Executing a DOOH advertising business using regulatory sandboxes and FMS integration[cite: 238].
+* [cite_start]**Strategic Healthcare Alliance**: Designing investment pipelines for entering the pharmaceutical distribution market[cite: 238].
+
+---
+
+## Education
+
+* [cite_start]**KAIST**, MS in Information Management (IMMS), 2024 – 2026 [cite: 215]
+* [cite_start]**Kwangwoon University**, BS in Law, 2011 – 2017 (GPA 4.14/4.5) [cite: 215]
